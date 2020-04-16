@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: a7e8f105e72fe1749a44a9a803f0a4a9
+timeCreated: 1506800797
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: colliderb1
+    100006: colliderb1.001
+    100008: colliderb1.002
+    100010: colliderb1.003
+    100012: colliderb1.004
+    100014: colliderb1.005
+    100016: colliderb1.006
+    100018: colliderb1.007
+    100020: colliderb1.008
+    100022: colliderb1.009
+    100024: Cylinder
+    100026: Cylinder.001
+    100028: Cylinder.002
+    100030: Cylinder.004
+    100032: dockingDoor
+    100034: dockingDoor.002
+    100036: dockporttop
+    100038: dockporttop.001
+    100040: Lamp
+    100042: Lamp.001
+    100044: Lamp.002
+    100046: Lamp.003
+    100048: Lamp.004
+    100050: Lamp.005
+    100052: Lamp.006
+    100054: Lamp.007
+    100056: Lamp.008
+    400000: //RootNode
+    400002: Camera
+    400004: colliderb1
+    400006: colliderb1.001
+    400008: colliderb1.002
+    400010: colliderb1.003
+    400012: colliderb1.004
+    400014: colliderb1.005
+    400016: colliderb1.006
+    400018: colliderb1.007
+    400020: colliderb1.008
+    400022: colliderb1.009
+    400024: Cylinder
+    400026: Cylinder.001
+    400028: Cylinder.002
+    400030: Cylinder.004
+    400032: dockingDoor
+    400034: dockingDoor.002
+    400036: dockporttop
+    400038: dockporttop.001
+    400040: Lamp
+    400042: Lamp.001
+    400044: Lamp.002
+    400046: Lamp.003
+    400048: Lamp.004
+    400050: Lamp.005
+    400052: Lamp.006
+    400054: Lamp.007
+    400056: Lamp.008
+    2300000: colliderb1
+    2300002: colliderb1.001
+    2300004: colliderb1.002
+    2300006: colliderb1.003
+    2300008: colliderb1.004
+    2300010: colliderb1.005
+    2300012: colliderb1.006
+    2300014: colliderb1.007
+    2300016: colliderb1.008
+    2300018: colliderb1.009
+    2300020: Cylinder
+    2300022: Cylinder.001
+    2300024: Cylinder.002
+    2300026: Cylinder.004
+    2300028: dockingDoor
+    2300030: dockingDoor.002
+    2300032: dockporttop
+    2300034: dockporttop.001
+    3300000: colliderb1
+    3300002: colliderb1.001
+    3300004: colliderb1.002
+    3300006: colliderb1.003
+    3300008: colliderb1.004
+    3300010: colliderb1.005
+    3300012: colliderb1.006
+    3300014: colliderb1.007
+    3300016: colliderb1.008
+    3300018: colliderb1.009
+    3300020: Cylinder
+    3300022: Cylinder.001
+    3300024: Cylinder.002
+    3300026: Cylinder.004
+    3300028: dockingDoor
+    3300030: dockingDoor.002
+    3300032: dockporttop
+    3300034: dockporttop.001
+    4300000: colliderb1.009
+    4300002: colliderb1.008
+    4300004: colliderb1.007
+    4300006: colliderb1.006
+    4300008: colliderb1.005
+    4300010: colliderb1.004
+    4300012: colliderb1.003
+    4300014: colliderb1.002
+    4300016: colliderb1.001
+    4300018: Cylinder.004
+    4300020: colliderb1
+    4300022: dockingDoor.002
+    4300024: Cylinder.002
+    4300026: Cylinder.001
+    4300028: Cylinder
+    4300030: dockporttop
+    4300032: dockporttop.001
+    4300034: dockingDoor
+    7400000: Scene
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: colliderb1
+        weight: 1
+      - path: colliderb1.001
+        weight: 1
+      - path: colliderb1.002
+        weight: 1
+      - path: colliderb1.003
+        weight: 1
+      - path: colliderb1.004
+        weight: 1
+      - path: colliderb1.005
+        weight: 1
+      - path: colliderb1.006
+        weight: 1
+      - path: colliderb1.007
+        weight: 1
+      - path: colliderb1.008
+        weight: 1
+      - path: colliderb1.009
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder.001
+        weight: 1
+      - path: Cylinder.002
+        weight: 1
+      - path: Cylinder.004
+        weight: 1
+      - path: dockingDoor
+        weight: 1
+      - path: dockingDoor.002
+        weight: 1
+      - path: dockporttop
+        weight: 1
+      - path: dockporttop.001
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Lamp.002
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Lamp.004
+        weight: 1
+      - path: Lamp.005
+        weight: 1
+      - path: Lamp.006
+        weight: 1
+      - path: Lamp.007
+        weight: 1
+      - path: Lamp.008
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

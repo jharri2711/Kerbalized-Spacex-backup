@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: d0477e38effdc83419bef7860eaa0a79
+timeCreated: 1509067032
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Cylinder
+    100006: Cylinder.001
+    100008: Cylinder.002
+    100010: Cylinder.003
+    100012: Cylinder.004
+    100014: Cylinder.005
+    100016: Cylinder.006
+    100018: Cylinder.007
+    100020: dockingDoor
+    100022: dockingDoor.002
+    100024: dockporttop
+    100026: dockporttop.001
+    100028: Lamp
+    100030: Lamp.001
+    100032: Lamp.002
+    100034: Lamp.003
+    100036: Lamp.004
+    100038: Lamp.005
+    100040: Lamp.006
+    100042: Lamp.007
+    100044: Lamp.008
+    100046: Lamp.009
+    100048: Lamp.010
+    100050: Lamp.011
+    400000: //RootNode
+    400002: Camera
+    400004: Cylinder
+    400006: Cylinder.001
+    400008: Cylinder.002
+    400010: Cylinder.003
+    400012: Cylinder.004
+    400014: Cylinder.005
+    400016: Cylinder.006
+    400018: Cylinder.007
+    400020: dockingDoor
+    400022: dockingDoor.002
+    400024: dockporttop
+    400026: dockporttop.001
+    400028: Lamp
+    400030: Lamp.001
+    400032: Lamp.002
+    400034: Lamp.003
+    400036: Lamp.004
+    400038: Lamp.005
+    400040: Lamp.006
+    400042: Lamp.007
+    400044: Lamp.008
+    400046: Lamp.009
+    400048: Lamp.010
+    400050: Lamp.011
+    2300000: Cylinder
+    2300002: Cylinder.001
+    2300004: Cylinder.002
+    2300006: Cylinder.003
+    2300008: Cylinder.004
+    2300010: Cylinder.005
+    2300012: Cylinder.006
+    2300014: Cylinder.007
+    2300016: dockingDoor
+    2300018: dockingDoor.002
+    2300020: dockporttop
+    2300022: dockporttop.001
+    3300000: Cylinder
+    3300002: Cylinder.001
+    3300004: Cylinder.002
+    3300006: Cylinder.003
+    3300008: Cylinder.004
+    3300010: Cylinder.005
+    3300012: Cylinder.006
+    3300014: Cylinder.007
+    3300016: dockingDoor
+    3300018: dockingDoor.002
+    3300020: dockporttop
+    3300022: dockporttop.001
+    4300000: Cylinder.005
+    4300002: Cylinder.007
+    4300004: Cylinder.006
+    4300006: Cylinder.003
+    4300008: Cylinder.004
+    4300010: dockingDoor.002
+    4300012: Cylinder.002
+    4300014: Cylinder.001
+    4300016: Cylinder
+    4300018: dockporttop
+    4300020: dockporttop.001
+    4300022: dockingDoor
+    7400000: Scene
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder.001
+        weight: 1
+      - path: Cylinder.002
+        weight: 1
+      - path: Cylinder.003
+        weight: 1
+      - path: Cylinder.004
+        weight: 1
+      - path: Cylinder.005
+        weight: 1
+      - path: Cylinder.006
+        weight: 1
+      - path: Cylinder.007
+        weight: 1
+      - path: dockingDoor
+        weight: 1
+      - path: dockingDoor.002
+        weight: 1
+      - path: dockporttop
+        weight: 1
+      - path: dockporttop.001
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Lamp.002
+        weight: 1
+      - path: Lamp.003
+        weight: 1
+      - path: Lamp.004
+        weight: 1
+      - path: Lamp.005
+        weight: 1
+      - path: Lamp.006
+        weight: 1
+      - path: Lamp.007
+        weight: 1
+      - path: Lamp.008
+        weight: 1
+      - path: Lamp.009
+        weight: 1
+      - path: Lamp.010
+        weight: 1
+      - path: Lamp.011
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
